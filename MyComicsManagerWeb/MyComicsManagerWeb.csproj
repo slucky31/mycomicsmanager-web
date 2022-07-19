@@ -16,7 +16,7 @@
 		<!-- https://github.com/osprakash/ImageThumbnail-aspnetcore -->
 		<PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
 		<PackageReference Include="Microsoft.Extensions.FileProviders.Physical" Version="6.0.0" />
-		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
 		<PackageReference Include="System.Drawing.Common" Version="6.0.0" />
 		<PackageReference Include="Google.Apis.Books.v1" Version="1.57.0.2633" />
 	</ItemGroup>
